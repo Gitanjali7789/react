@@ -3,7 +3,7 @@ function App() {
   return (
     <>
         <h1>hello world|basic react</h1>
-<Chai/>
+        <Chai/>
     </>
   );
 }
